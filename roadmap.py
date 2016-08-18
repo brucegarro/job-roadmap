@@ -4,9 +4,9 @@ import json
 import pprint
 printer = pprint.PrettyPrinter(indent=4)
 
-GLASSDOOR_PARTNER_ID = '34802'
-GLASSDOOR_KEY = 'isx6oLLCxUQ'
-USERIP = '72.182.6.193'
+GLASSDOOR_PARTNER_ID = 'XX'
+GLASSDOOR_KEY = 'XXXXXXXXXXX'
+USERIP = 'XX.1XX.X.XXX'
 USERAGENT = 'Bruce Garro User Agent'
 FORMAT = 'json'
 
